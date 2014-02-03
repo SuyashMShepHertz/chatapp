@@ -1,0 +1,11 @@
+{
+  "name": "Packaged Chat App",
+  "description": "Chat Application powered by AppWarp",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": {"128": "icon_128.png" }
+}

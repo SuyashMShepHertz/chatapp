@@ -1,0 +1,13 @@
+{
+  "version": "0.1",
+  "name": "The Chat App",
+  "description": "Chat Application Powered By AppWarp",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon_128.png"
+  },
+  "developer": {
+    "name": "Shephertz Technologies Pvt. Ltd.",
+    "url": "http://www.shephertz.co.in"
+  }
+}
